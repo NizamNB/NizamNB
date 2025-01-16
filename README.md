@@ -1,8 +1,6 @@
 
-##  👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&pause=100&color=000000&center=true&vCenter=true&width=500&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-
-
+##  ![Waving Hand](https://media.giphy.com/media/3o6ZsYm5Q4C1r8zTxu/giphy.gif)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=40&pause=100&color=000000&center=true&vCenter=true&width=500&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 I am **Nawshad Binta Nizam**, currently a graduate student in the Dept. of **Bioengineering, University of Pittsburgh.**
 
