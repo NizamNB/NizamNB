@@ -1,6 +1,5 @@
 
 ## ![Hello Welcome to my profile](https://github.com/NizamNB/NizamNB/blob/main/hello-animation.gif)
-izam
 ## 👋 Hi! Welcome to my profile 
 
 
