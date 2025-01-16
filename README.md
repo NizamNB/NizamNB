@@ -1,6 +1,6 @@
 
-## ![Hello Welcome to my profile](https://github.com/YourUsername/YourRepoName/blob/main/hello-animation.gif)
-
+## ![Hello Welcome to my profile](https://github.com/NizamNB/NizamNB/blob/main/hello-animation.gif)
+izam
 ## 👋 Hi! Welcome to my profile 
 
 
