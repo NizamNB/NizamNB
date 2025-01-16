@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi! Welcome to my profile
 I am **Nawshad Binta Nizam**, currently a graduate student in the Dept. of Bioengineering, University of Pittsburgh.
 
 - 🔭 I’m currently working on **Spatial Transcriptomics** to find the correspondence between Human and Mouse mPFC brain region.
