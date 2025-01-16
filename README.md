@@ -1,4 +1,8 @@
-## 👋 Hi! Welcome to my profile [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+## ![Hello Welcome to my profile](https://github.com/YourUsername/YourRepoName/blob/main/hello-animation.gif)
+
+## 👋 Hi! Welcome to my profile 
+
 
 I am **Nawshad Binta Nizam**, currently a graduate student in the Dept. of **Bioengineering, University of Pittsburgh.**
 
