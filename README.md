@@ -1,4 +1,5 @@
-## 👋 Hi! Welcome to my profile
+## 👋 Hi! Welcome to my profile [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&width=435&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+
 I am **Nawshad Binta Nizam**, currently a graduate student in the Dept. of **Bioengineering, University of Pittsburgh.**
 
 - 🔭 I’m currently working on **Spatial Transcriptomics** to find the correspondence between **Human and Mouse mPFC** brain region.
