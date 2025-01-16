@@ -1,5 +1,5 @@
 
-##  👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=100&color=000000&center=true&vCenter=true&width=500&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
+##  👋[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Code&size=30&pause=100&color=000000&center=true&vCenter=true&width=500&lines=Hello!+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 
