@@ -1,6 +1,5 @@
 
-## ![Welcome Animation](textanim-LJ6kd.gif)
-## 👋 Hi! Welcome to my profile 
+##  👋 ![Welcome Animation](textanim-LJ6kd.gif)
 
 
 I am **Nawshad Binta Nizam**, currently a graduate student in the Dept. of **Bioengineering, University of Pittsburgh.**
